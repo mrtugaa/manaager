@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@squarecloud/api": "^3.3.1",
+    "adm-zip": "^0.5.10",
+    "axios": "^1.6.2",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "jszip": "^3.10.1",
+    "mercadopago": "^1.5.13",
+    "moment": "^2.29.4",
+    "node-schedule": "^2.1.1",
+    "wio.db": "^4.0.22"
+  },
+  "name": "bot-manager___",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
